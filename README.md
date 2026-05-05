@@ -2,6 +2,10 @@
 
 A clean, dark-themed Task Manager built with ReactJS.
 
+## Preview
+
+![Task Manager](preview.png)
+
 ## Features
 
 - ✅ Add, complete, and delete tasks
